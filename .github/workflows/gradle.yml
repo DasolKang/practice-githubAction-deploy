@@ -17,7 +17,7 @@ permissions:
   contents: read
   
 env:
-  S3_BUCKET_NAME: be-2-DasolKang
+  S3_BUCKET_NAME: be-2-dasolkang
 
 jobs:
   build:
